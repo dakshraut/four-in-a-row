@@ -319,9 +319,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. **Improve Documentation**: Help make the docs better
 4. **Code Contributions**: Follow the existing code style
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -334,15 +331,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support, email [your-email@example.com] or open an issue in the GitHub repository.
 
----
-
-<div align="center">
-Made with ❤️ by [Your Name]
-</div>
-
-<p align="center">
-  <a href="#-4-in-a-row---real-time-connect-four-game">Back to top</a>
-</p>
 
 ## 🎯 Quick Commands Cheatsheet
 
